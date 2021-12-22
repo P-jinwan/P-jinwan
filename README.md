@@ -1,8 +1,5 @@
-👋 Hi there, I'm jinwan, Oh
+👋 Hi there, I'm jinwan
 
-😄 I'm interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics, Ubuntu
+😄 I'm learning Python and I'm very interested in AI!
 
-🌱 I’m currently learning OpenCV, Deep Learning, Data Analystics, OpenCV
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=P-jinwan&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/P-jinwan/P-jinwan/blob/main/README.md)
+🔥 It's still not enough, but I'll study hard and become the best IT person! Can you help me grow up together?
