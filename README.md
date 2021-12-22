@@ -1,11 +1,15 @@
-### Hi there 👋
+👋 Hi there, I'm jinwan, Oh
 
-<!--
-**P-jinwan/P-jinwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 I'm interested in Python, Machine Learning, Deep Learning, Data Science, Data Analystics, Ubuntu
 
-Here are some ideas to get you started:
+🌱 I’m currently learning OpenCV, Deep Learning, Data Analystics, OpenCV
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=P-jinwan&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/P-jinwan/P-jinwan/blob/main/README.md)
+
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
