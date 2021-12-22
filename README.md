@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=P-jinwan&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/Jaedong95/ViewCloset_deeplearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=P-jinwan&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/P-jinwan/P-jinwan/blob/main/README.md)
