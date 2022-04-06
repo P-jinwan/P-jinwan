@@ -6,9 +6,7 @@
 
 🔥 I still lack a lot, but I will study hard and become a great machine learning engineer.</br></br>
 ## `Language`
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-jinwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ## `Skill`
-- Pandas
-- Scikit-Learn
-- TensorFlow
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
