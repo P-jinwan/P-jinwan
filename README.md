@@ -7,3 +7,8 @@
 🔥 I still lack a lot, but I will study hard and become a great machine learning engineer.</br></br>
 ## `Language`
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-jinwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## `Skill`
+- Pandas
+- Scikit-Learn
+- TensorFlow
