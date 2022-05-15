@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20github&fontSize=50&animation=blinking)
 
+ <a href="https://blog.naver.com/jinwan0315" target="_blank"><img src="https://img.shields.io/badge/Blog-#03C75A?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+
 ## `Language`
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
