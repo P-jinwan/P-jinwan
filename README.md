@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20github&fontSize=50&animation=blinking)
 <div align="center">
- 반갑습니다! 저는 박진완입니다. 현재 KDT AI 과정에 참가하여 머신 러닝을 공부중이며 데이터 수집 및 분석과 NLP에 관심이 많습니다! </br>
+ 반갑습니다! 저는 박진완입니다. 현재 KDT AI 과정에 참가하여 머신 러닝을 공부중이며 데이터 수집 및 분석과 NLP에 관심이 많습니다! </br></br>
  🌟Blog🌟 </br>
  <a href="https://blog.naver.com/jinwan0315" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Storyblok&logoColor=white"/></a>
  </br></br>
